@@ -1,0 +1,6 @@
+const wilder = {
+name: "Lukas",
+campus: "Remote Campus"
+}
+
+module.exports = wilder;
